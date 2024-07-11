@@ -1,4 +1,4 @@
-package com.pboox.androidmaster
+package com.pboox.androidmaster.sintaxis
 
 fun main(){
     mutableList()
