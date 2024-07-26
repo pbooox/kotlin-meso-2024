@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidMaster</string>
+    <string name="temp_up">Subir temperatura</string>
+    <string name="temp_down">Bajar temperatura</string>
+    <string name="temp">Temperatura</string>
 </resources>
